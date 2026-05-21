@@ -1,4 +1,5 @@
-EventHub 🎓
+````EventHub 🎓
+
 University Event Management Website
 
 EventHub is a web-based university event management system designed to simplify the creation, management, and participation of university events. It provides a centralized platform for students and administrators to coordinate events efficiently.
@@ -31,5 +32,5 @@ This website helps universities manage events more efficiently by improving comm
 
 A simple and effective web solution for better event organization and student engagement in university activities.
 
-Author
+````Author
 Developed by Kasuni Lakshika.
