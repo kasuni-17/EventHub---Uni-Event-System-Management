@@ -1,4 +1,4 @@
-🎓EventHub🎓
+## 🎓EventHub🎓
 
 
 University Event Management Website
